@@ -43,7 +43,7 @@ Contém as seguintes seções em CSS : flex-box/ display:flex; justify-content; 
 ## 🔖 Layout
 <br>
 
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 <br><br>
 
 ## 📝 Licença
