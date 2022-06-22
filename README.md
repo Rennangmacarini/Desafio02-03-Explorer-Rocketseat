@@ -22,7 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
-<br>
 - font-family: 'Mulish', sans-serif;
 <br>
 - font-family: 'Open Sans', sans-serif;
