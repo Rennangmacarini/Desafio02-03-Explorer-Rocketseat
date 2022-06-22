@@ -23,7 +23,6 @@ Bibliotecas
 
 - [Google Fonts](https://fonts.google.com/)
 - font-family: 'Mulish', sans-serif;
-<br>
 - font-family: 'Open Sans', sans-serif;
 <br>
 
